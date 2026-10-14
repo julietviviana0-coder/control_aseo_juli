@@ -94,7 +94,7 @@
         }
 
         .insignia strong { color: var(--amarillo); }
-
+/* Comentario */
         main {
             max-width: 1160px;
             margin: 30px auto;
